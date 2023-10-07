@@ -1,0 +1,61 @@
+#div_2 
+{
+    text-align: center;
+
+    padding-bottom: 50px;
+}
+
+#div_1
+{
+    text-align: center;
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+}
+
+#button_1
+{
+    font-size: 50px;
+}
+
+#my_div
+{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#heading
+{
+    text-align: center;
+
+    padding-top: 20px;
+
+    font-size: 75px;
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+
+#html_game
+{
+    background: red;
+}
+
+#div_game
+{
+    background: red;
+}
+
+#body_game
+{
+    background: red;
+}
